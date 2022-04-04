@@ -1,0 +1,8 @@
+C:\Users\brici\source\repos\SentenciasCondicionales\SentenciasCondicionales\bin\Debug\SentenciasCondicionales.exe.config
+C:\Users\brici\source\repos\SentenciasCondicionales\SentenciasCondicionales\bin\Debug\SentenciasCondicionales.exe
+C:\Users\brici\source\repos\SentenciasCondicionales\SentenciasCondicionales\bin\Debug\SentenciasCondicionales.pdb
+C:\Users\brici\source\repos\SentenciasCondicionales\SentenciasCondicionales\obj\Debug\SentenciasCondicionales.csproj.AssemblyReference.cache
+C:\Users\brici\source\repos\SentenciasCondicionales\SentenciasCondicionales\obj\Debug\SentenciasCondicionales.csproj.SuggestedBindingRedirects.cache
+C:\Users\brici\source\repos\SentenciasCondicionales\SentenciasCondicionales\obj\Debug\SentenciasCondicionales.csproj.CoreCompileInputs.cache
+C:\Users\brici\source\repos\SentenciasCondicionales\SentenciasCondicionales\obj\Debug\SentenciasCondicionales.exe
+C:\Users\brici\source\repos\SentenciasCondicionales\SentenciasCondicionales\obj\Debug\SentenciasCondicionales.pdb
